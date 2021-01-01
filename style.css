@@ -1,0 +1,14 @@
+.light {
+    background: #63e4c0;
+    color: #000000;
+}
+.dark {
+    background: #000000;
+    color: #999999;
+}
+#second {
+    background: #a12444;
+}
+div {
+    width: 300px;
+}
